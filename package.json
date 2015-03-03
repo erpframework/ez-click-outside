@@ -1,0 +1,23 @@
+{
+  "name": "ez-click-outside",
+  "description": "Angular directive for executing an expression when clicked outside",
+  "keywords": [],
+  "version": "0.0.1",
+  "author": "Joris de Wit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-bump": "0.0.11"
+  }
+}
